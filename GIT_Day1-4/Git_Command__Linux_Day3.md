@@ -17,13 +17,9 @@
 # to list the files in folder 
 - ls
 
-# to check the present working 
-- pwd
-
 # to create a directory 
 - mkdir "dir_name"
  
-
 # change Dir
 - cd "directory_path"
 
